@@ -1,9 +1,9 @@
 {
   "name": "generic-functions",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A generic function library for Node.js",
   "main": "./lib/GenericFunctions.js",
-  "preferGlobal": "false",
+  "preferGlobal": false,
   "scripts": {
     "test": "vows test/**/*-test.js --spec -i"
   },
@@ -19,9 +19,15 @@
     "println",
     "printlns"
   ],
+  "devDependencies": {
+    "vows": ">= 0.8.x"
+  },
   "author": "Sam Saint-Pettersen <s.stpettersen+github@gmail.com> (http://github.com/stpettersens)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stpettersens/genericFunctions-for-node/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.x"
   }
 }

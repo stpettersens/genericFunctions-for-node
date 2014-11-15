@@ -5,7 +5,7 @@ A generic function library for Node.js
 
 ## Usage ##
 
-To use, just add `var g = require('GenericFunctions');` to your JavaScript file.
+To use, just add `var g = require('generic-functions');` to your JavaScript file.
 
 Functions offered:
 

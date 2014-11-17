@@ -33,3 +33,11 @@ Print an array line-by-line to stdout.
 
 Optionally, you want to include the `-g` option after `install` to make the functions
 available to all your Node.js modules.
+
+TODO
+----
+
+* Add Travis CI integration!
+* Push latest to npm repository.
+
+

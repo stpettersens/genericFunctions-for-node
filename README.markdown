@@ -1,9 +1,8 @@
-genericFunctions-for-node
-=========================
+## genericFunctions-for-node
 
 A generic function library for Node.js
 
-## Usage ##
+#### Usage #####
 
 To use, just add `var g = require('generic-functions');` to your JavaScript file.
 
@@ -27,15 +26,14 @@ A thin wrapper around `console.log(...)`; print to stdout.
 Where `message` is an array such as `["Hello", "World"]`.
 Print an array line-by-line to stdout.
 
-## Install ##
+#### Install ####
 
 `$ npm install generic-functions`
 
 Optionally, you want to include the `-g` option after `install` to make the functions
 available to all your Node.js modules.
 
-TODO
-----
+#### TODO ####
 
 * Add Travis CI integration!
 * Push latest to npm repository.

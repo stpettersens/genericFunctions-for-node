@@ -17,6 +17,11 @@ Returns `true` or `false`.
 
 (As `g.strcmp(str1, str2);`, but case-insenstive).
 
+`g.strendwith(str, suffix)` (Boolean)
+
+Check that `str` ends with `suffix`. Useful for
+checking file extensions.
+
 `g.println(message);` (Void)
 
 A thin wrapper around `console.log(...)`; print to stdout.
@@ -37,5 +42,3 @@ available to all your Node.js modules.
 
 * Add Travis CI integration!
 * Push latest to npm repository.
-
-

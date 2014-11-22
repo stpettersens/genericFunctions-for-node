@@ -1,6 +1,6 @@
 {
   "name": "generic-functions",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A generic function library for Node.js",
   "main": "./lib/GenericFunctions.js",
   "preferGlobal": false,

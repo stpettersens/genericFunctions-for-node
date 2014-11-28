@@ -5,7 +5,7 @@
   "main": "./lib/GenericFunctions.js",
   "preferGlobal": false,
   "scripts": {
-    "test": "vows test/**/*-test.js --spec -i"
+    "test": "!TODO!"
   },
   "repository": {
     "type": "git",

@@ -41,4 +41,3 @@ available to all your Node.js modules.
 #### TODO ####
 
 * Add Travis CI integration!
-* Push latest to npm repository.

@@ -1,4 +1,4 @@
-## genericFunctions-for-node [![NPM version](http://badge.fury.io/js/genertic-functions.png)](https://npmjs.org/package/generic-functions "View this project on NPM")
+## genericFunctions-for-node [![npm version](https://badge.fury.io/js/generic-functions.svg)](http://npmjs.org/generic-functions)
 
 A generic function library for Node.js
 

@@ -20,7 +20,7 @@
     "printlns"
   ],
   "devDependencies": {
-    "vows": ">= 0.8.x"
+    "mocha": ">= 2.0.1"
   },
   "author": "Sam Saint-Pettersen <s.stpettersen+github@gmail.com> (http://github.com/stpettersens)",
   "license": "MIT",

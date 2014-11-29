@@ -1,4 +1,4 @@
-## generic-functions [![Build Status](https://travis-ci.org/stpettersens/genericFunctions-for-node.svg?branch=master)](https://travis-ci.org/stpettersens/genericFunctions-for-node) [![npm version](https://badge.fury.io/js/generic-functions.svg)](http://npmjs.org/generic-functions) [![Development Dependency Status](https://david-dm.org/stpettersens/genericFunctions-for-node/dev-status.png?theme=shields.io)](https://david-dm.org/stpettersens/genericFunctions-for-node#info=devDependencies)
+## generic-functions [![Build Status](https://travis-ci.org/stpettersens/genericFunctions-for-node.svg?branch=master)](https://travis-ci.org/stpettersens/genericFunctions-for-node) [![npm version](https://badge.fury.io/js/generic-functions.svg)](http://npmjs.org/package/generic-function) [![Development Dependency Status](https://david-dm.org/stpettersens/genericFunctions-for-node/dev-status.png?theme=shields.io)](https://david-dm.org/stpettersens/genericFunctions-for-node#info=devDependencies)
 
 A generic function library for Node.js
 

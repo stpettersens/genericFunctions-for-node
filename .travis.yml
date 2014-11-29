@@ -9,4 +9,3 @@ node_js:
 
 before_script: sudo npm install -g mocha should
 script: npm test
-#

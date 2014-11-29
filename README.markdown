@@ -20,7 +20,10 @@ Returns `true` or `false`.
 `g.strendwith(str, suffix)` (Boolean)
 
 Check that `str` ends with `suffix`. Useful for
-checking file extensions.
+checking file extensions (case-sensitive).
+
+`g.icstrendswith(str, suffix);` (Boolean)
+(As `g.strendswith(str, suffix);`, but case-insensitive).
 
 `g.println(message);` (Void)
 

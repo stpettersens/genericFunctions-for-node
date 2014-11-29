@@ -1,0 +1,11 @@
+#
+# Travis-CI configuration for generic-functions.
+#
+
+language: nodejs
+node_js:
+    - "0.10"
+    - 0.11
+
+before_script: sudo npm install -g mocha should
+script: npm test

@@ -1,11 +1,11 @@
 {
   "name": "generic-functions",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A generic function library for Node.js",
   "main": "./lib/GenericFunctions.js",
   "preferGlobal": false,
   "scripts": {
-    "test": "!TODO!"
+    "test": "mocha ./lib/GenericFunctions.test.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,8 @@
     "printlns"
   ],
   "devDependencies": {
-    "mocha": ">= 2.0.1"
+    "mocha": ">= 2.0.1",
+    "should": ">= 4.3.0"
   },
   "author": "Sam Saint-Pettersen <s.stpettersen+github@gmail.com> (http://github.com/stpettersens)",
   "license": "MIT",

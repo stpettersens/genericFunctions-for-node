@@ -38,5 +38,5 @@ Print an array line-by-line to stdout.
 
 `$ npm install generic-functions`
 
-Optionally, you want to include the `-g` option after `install` to make the functions
+Optionally, you might want to include the `-g` option after `install` to make the functions
 available to all your Node.js modules.

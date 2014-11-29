@@ -1,4 +1,4 @@
-## genericFunctions-for-node [![npm version](https://badge.fury.io/js/generic-functions.svg)](http://npmjs.org/generic-functions) [![Development Dependency Status](https://david-dm.org/stpettersens/genericFunctions-for-node/dev-status.png?theme=shields.io)](https://david-dm.org/stpettersens/genericFunctions-for-node#info=devDependencies)
+## generic-functions [![npm version](https://badge.fury.io/js/generic-functions.svg)](http://npmjs.org/generic-functions) [![Development Dependency Status](https://david-dm.org/stpettersens/genericFunctions-for-node/dev-status.png?theme=shields.io)](https://david-dm.org/stpettersens/genericFunctions-for-node#info=devDependencies)
 
 A generic function library for Node.js
 
@@ -37,7 +37,3 @@ Print an array line-by-line to stdout.
 
 Optionally, you want to include the `-g` option after `install` to make the functions
 available to all your Node.js modules.
-
-#### TODO ####
-
-* Add Travis CI integration!

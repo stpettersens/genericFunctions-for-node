@@ -35,7 +35,7 @@ A thin wrapper around `console.log(...)`; print to stdout.
 Where `message` is an array such as `["Hello", "World"]`.
 Print an array line-by-line to stdout.
 
-`g.objGetKeyByValue(object, value);` (Object key)
+`g.objGetKeyByValue(object, value);` (Object key as String)
 
 Get an object's key by its value.
 

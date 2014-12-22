@@ -1,6 +1,6 @@
 {
   "name": "generic-functions",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A generic function library for Node.js",
   "main": "./lib/GenericFunctions.js",
   "preferGlobal": false,
@@ -29,6 +29,6 @@
     "url": "https://github.com/stpettersens/genericFunctions-for-node/issues"
   },
   "engines": {
-    "node": ">= 0.8.x"
+    "node": ">= 0.10.x"
   }
 }

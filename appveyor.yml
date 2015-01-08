@@ -1,0 +1,13 @@
+#
+# Appveyor CI configuration for generic-functions.
+#
+
+install:
+	- "node --version"
+	- "npm --version"
+
+build_script:
+    - "npm install"
+
+test_script:
+    - "npm test"

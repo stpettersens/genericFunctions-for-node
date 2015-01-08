@@ -3,4 +3,5 @@ doc/
 .npmignore
 .gitignore
 .travis.yml
+appveyor.yml
 travis.js

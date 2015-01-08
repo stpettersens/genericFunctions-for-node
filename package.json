@@ -5,7 +5,7 @@
   "main": "./lib/GenericFunctions.js",
   "preferGlobal": false,
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha ./lib/GenericFunctions.test.js"
+    "test": "node_modules/mocha/bin/mocha ./lib/GenericFunctions.test.js",
     "testwin": "node.exe node_modules/mocha/bin/mocha lib/GenericFunctions.test.js"
   },
   "repository": {

@@ -7,8 +7,8 @@ install:
     - "npm --version"
 
 build_script:
-    - ps: "ls ."
     - "npm install"
+    - ps: "ls ."
 
 test_script:
     - ps: "npm test"

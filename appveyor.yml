@@ -10,4 +10,4 @@ build_script:
     - "npm install"
 
 test_script:
-    - "npm testwin"
+    - "node node_modules/mocha/bin/mocha lib/GenericFunctions.test.js"

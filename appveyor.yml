@@ -2,6 +2,10 @@
 # Appveyor CI configuration for generic-functions.
 #
 
+environment:
+    matrix:
+        - NODE: "C:/Nodejs"
+
 install:
 	- "node --version"
 	- "npm --version"

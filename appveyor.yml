@@ -3,8 +3,8 @@
 #
 
 install:
-	- "node --version"
-	- "npm --version"
+    - "node --version"
+    - "npm --version"
 
 build_script:
     - "npm install"

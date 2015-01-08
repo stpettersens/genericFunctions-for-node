@@ -8,7 +8,6 @@ install:
 
 build_script:
     - "npm install"
-    - ps: "ls ."
 
 test_script:
-    - ps: "npm test"
+    - "node node_modules/mocha/bin/mocha lib/GenericFunctions.test.js"

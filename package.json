@@ -5,7 +5,8 @@
   "main": "./lib/GenericFunctions.js",
   "preferGlobal": false,
   "scripts": {
-    "test": "node node_modules/mocha/bin/mocha ./lib/GenericFunctions.test.js"
+    "test": "node node_modules/mocha/bin/mocha ./lib/GenericFunctions.test.js",
+    "jsdoc": "jsdoc lib/GenericFunctions.js -d doc"
   },
   "repository": {
     "type": "git",

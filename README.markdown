@@ -26,6 +26,10 @@ checking file extensions (case-sensitive).
 `g.icstrendswith(str, suffix);` (Boolean)
 (As `g.strendswith(str, suffix);`, but case-insensitive).
 
+`g_endswithdot(str);` (String)
+
+Get the last string part than ends with a dot suffix.
+
 `g.println(message);` (Void)
 
 A thin wrapper around `console.log(...)`; print to stdout.

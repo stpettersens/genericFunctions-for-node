@@ -1,7 +1,7 @@
 #
 # Travis-CI configuration for generic-functions.
 #
-
+sudo: false
 language: node_js
 node_js:
     - "iojs"
